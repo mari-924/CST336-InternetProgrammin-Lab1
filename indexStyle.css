@@ -27,7 +27,9 @@ body{
     border: 5px solid white;
     object-fit: cover;
     flex-wrap: wrap;  
-    display:flex;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 .fig{
     width: 5%;
