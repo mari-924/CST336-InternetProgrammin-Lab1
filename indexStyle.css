@@ -29,7 +29,7 @@ body{
     flex-wrap: wrap;    
 }
 .fig{
-    width: 10%;
+    width: 5%;
 }
 .row{
     display:flex;
