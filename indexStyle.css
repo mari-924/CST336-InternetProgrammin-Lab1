@@ -37,6 +37,7 @@ body{
     flex-wrap:wrap;  /* wraps content */
     justify-content:space-evenly; /*centers horizontally*/
     align-items:center; /*centers vertically*/
+    text-align:center;
 }
 hr{
     width:75%; 
