@@ -34,7 +34,7 @@ body{
 .row{
     display:flex;
     flex-wrap:wrap;  /* wraps content */
-    justify-content:space-between; /*centers horizontally*/
+    justify-content:space-evenly; /*centers horizontally*/
     align-items:center; /*centers vertically*/
 }
 hr{
